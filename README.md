@@ -16,7 +16,7 @@ python -m flask run
 Windows
 python -m flask run
 
-<h2>To Configure Environment in PyCharm IDE<h/2>
+<h2>To Configure Environment in PyCharm IDE</h2>
 ScriptPath : FlaskDemo\env\Scripts\flask.exe
 Parameters : run
 Environment Variables : PYTHONUNBUFFERED=1;FLASK_APP=app.py
